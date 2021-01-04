@@ -35,7 +35,7 @@ Vous pouvez consulter votre messagerie vocale depuis n'importe quel téléphone 
 
 Un mot de passe d'accès est nécessaire pour cette manipulation, vous pouvez le configurer ici.
 
-![](Mot_de_passe_accès_répondeur){.thumbnail}
+![](Mot_de_passe_accès_répondeur.jpg){.thumbnail}
 
 
 ## Configuration du répondeur
@@ -45,13 +45,13 @@ Vous avez aussi la possibilité de renseigner jusqu'à 5 adresses e-mail de noti
 
 Personnalisez l'adresse e-mail et le nom de l'expéditeur des notifications que vous recevez, permettant d'éviter les filtres automatiques (type spam webmail).
 
-![](Configuration_du_répondeur){.thumbnail}
+![](Configuration_du_répondeur.jpg){.thumbnail}
 
 
 ## Ecoute et gestion des messages
 Dans cette dernière partie vous avez la possibilité de gérer l'historique de vos messages, de les écouter et de les télécharger.
 
-![](Ecoute_et_gestion_des_messages){.thumbnail}
+![](Ecoute_et_gestion_des_messages.jpg){.thumbnail}
 Nous conservons jusqu'à 100 messages sur votre boîte vocale pour une durée de 6 mois maximum. Ils sont effacés en dehors de ces conditions.
 
 ## Aller plus loin
