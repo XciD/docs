@@ -26,7 +26,7 @@ Connectez-vous à votre [espace client OVHcloud](https://www.ovh.com/auth/?actio
 
 Il est possible de configurer votre offre EcoFax Pro ou Plug & Fax en tant que messagerie vocale.
 
-![](images/img_4257.jpg){.thumbnail}
+![](images/Activer-désactiver le répondeur.jpg){.thumbnail}
 L'activation de la fonctionnalité répondeur désactive toutes les fonctionnalités fax de votre offre.
 
 
