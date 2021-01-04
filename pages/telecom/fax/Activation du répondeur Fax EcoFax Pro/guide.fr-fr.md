@@ -27,6 +27,7 @@ Connectez-vous à votre [espace client OVHcloud](https://www.ovh.com/auth/?actio
 Il est possible de configurer votre offre EcoFax Pro ou Plug & Fax en tant que messagerie vocale.
 
 ![](images/Activer_désactiver_le_répondeur.jpg){.thumbnail}
+
 L'activation de la fonctionnalité répondeur désactive toutes les fonctionnalités fax de votre offre.
 
 
@@ -52,6 +53,7 @@ Personnalisez l'adresse e-mail et le nom de l'expéditeur des notifications que 
 Dans cette dernière partie vous avez la possibilité de gérer l'historique de vos messages, de les écouter et de les télécharger.
 
 ![](images/Ecoute_et_gestion_des_messages.jpg){.thumbnail}
+
 Nous conservons jusqu'à 100 messages sur votre boîte vocale pour une durée de 6 mois maximum. Ils sont effacés en dehors de ces conditions.
 
 ## Aller plus loin
