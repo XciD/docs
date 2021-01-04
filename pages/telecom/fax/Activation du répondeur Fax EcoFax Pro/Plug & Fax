@@ -21,12 +21,8 @@ Vous pouvez activer le répondeur sur votre ligne fax directement via votre espa
 
 Connectez-vous à votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager) puis sélectionnez `Télécom`{.action}. Cliquez ensuite sur `Téléphonie`{.action} puis sur le groupe ou se trouve votre ligne Fax.
 
-Le champ « Envoyer un SMS » est le premier élément disponible dans la liste des actions.
 
-![envoi sms manager](images/sms-send-control-panel01E.png){.thumbnail}
-
-
-### Étape 1 : Activation du répondeur fax 
+## Activation du répondeur fax 
 
 Il est possible de configurer votre offre EcoFax Pro ou Plug & Fax en tant que messagerie vocale.
 
