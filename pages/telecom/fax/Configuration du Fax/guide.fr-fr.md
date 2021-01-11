@@ -1,16 +1,16 @@
 ---
-title: Activation du répondeur Fax EcoFax Pro / Plug & Fax
-slug: Activation_de_l’offre_ecofax_pro_plug_and_fax
-excerpt: Découvrez comment activer le répondeur fax depuis votre espace client OVHcloud
+title: Configuration du Fax
+slug: Configuration_du_Fax
+excerpt: Découvrez comment Configurer votre ligne Fax depuis votre espace client OVHcloud
 section: Divers
 legacy_guide_number: g2221
 ---
 
-**Dernière mise à jour le 28/10/2020**
+**Dernière mise à jour le 11/01/2021**
 
 ## Objectif
 
-Vous pouvez activer le répondeur sur votre ligne fax directement via votre espace client OVHcloud. Ce guide indique étape par étape comment activer et utiliser le répondeur de la ligne Fax.
+Vous pouvez configurer votre ligne fax directement via votre espace client OVHcloud. Ce guide indique comment configurer votre ligne Fax.
 
 ## Prérequis
 
