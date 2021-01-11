@@ -22,39 +22,41 @@ Vous pouvez activer le répondeur sur votre ligne fax directement via votre espa
 Connectez-vous à votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager) puis sélectionnez `Télécom`{.action}. Cliquez ensuite sur `Téléphonie`{.action} puis sur le groupe ou se trouve votre ligne Fax.
 
 
-## Activation du répondeur fax 
+## 
+Afin de mettre en place la configuration de base de votre offre, cliquez sur Fax, puis sur Configuration du Fax dans la navigation après avoir préalablement sélectionné votre ligne.
 
-Il est possible de configurer votre offre EcoFax Pro ou Plug & Fax en tant que messagerie vocale.
-
-![](images/Activer_désactiver_le_répondeur.jpg){.thumbnail}
-
-L'activation de la fonctionnalité répondeur désactive toutes les fonctionnalités fax de votre offre.
+![](images/img_4244.jpg){.thumbnail}
 
 
-## Mot de passe
-Vous pouvez consulter votre messagerie vocale depuis n'importe quel téléphone en composant le 0033979947994.
+## Options générales
+La qualité par défaut de vos télécopies peut avoir un impact sur la réception de certains numéros spéciaux. 
+Passez la en Meilleure pour des envois vers les numéros spéciaux ou étrangers. 
 
-Un mot de passe d'accès est nécessaire pour cette manipulation, vous pouvez le configurer ici.
+Vous pouvez personnaliser l'ID des fax émis et des fax reçus.
 
-![](images/Mot_de_passe_accès_répondeur.jpg){.thumbnail}
+Vous pouvez paramétrer le nombre de tentatives d'envoi maximum, dans le cas d'un échec de transmission lors de la première tentative.
 
-
-## Configuration du répondeur
-Dans cet onglet vous pouvez configurer l'enregistrement des messages ainsi que le message d'accueil de votre répondeur.
-
-Vous avez aussi la possibilité de renseigner jusqu'à 5 adresses e-mail de notification, sur lesquelles vous pourrez également recevoir les messages sur différents formats audios.
-
-Personnalisez l'adresse e-mail et le nom de l'expéditeur des notifications que vous recevez, permettant d'éviter les filtres automatiques (type spam webmail).
-
-![](images/Configuration_du_répondeur.jpg){.thumbnail}
+![](images/img_4245.jpg){.thumbnail}
 
 
-## Ecoute et gestion des messages
-Dans cette dernière partie vous avez la possibilité de gérer l'historique de vos messages, de les écouter et de les télécharger.
+## Entête des fax émis
+Vous avez la possibilité de personnaliser l'entête de vos fax selon la méthode ci-dessous.
 
-![](images/Ecoute_et_gestion_des_messages.jpg){.thumbnail}
+![](images/img_4256.jpg){.thumbnail}
 
-Nous conservons jusqu'à 100 messages sur votre boîte vocale pour une durée de 6 mois maximum. Ils sont effacés en dehors de ces conditions.
+
+## Options de notifications
+Personnalisez l'adresse e-mail et le nom de l'expéditeur des notifications que vous recevez, permettant entre autres d'éviter les filtres automatiques (type spam webmail).
+Vous pouvez également définir le format Texte ou HTML de l'e-mail reçu.
+
+![](images/img_4247.jpg){.thumbnail}
+
+
+## Adresses à notifier
+Configurez l'adresse e-mail sur laquelle vous recevrez les télécopies.
+Vous pouvez renseigner jusqu'à 5 adresses différentes.
+
+![](images/img_4248.jpg){.thumbnail}
 
 ## Aller plus loin
 
