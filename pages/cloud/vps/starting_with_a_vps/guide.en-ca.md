@@ -6,7 +6,7 @@ section: 'Getting started'
 order: 1
 ---
 
-**Last updated 8th December 2020**
+**Last updated 14th February 2021**
 
 ## Objective
 
@@ -33,9 +33,9 @@ If you encounter any difficulties performing these actions, please contact a spe
 
 Log in to the [OVHcloud Control Panel](https://ca.ovh.com/auth/?action=gotomanager), go to the `Bare Metal Cloud`{.action} section and select your server from the list in the left-hand navigation under `VPS`{.action}. This dashboard contains important information about your service and allows you to perform essential operations. It will appear differently, depending on the product range of your VPS solution. 
 
-- If you have recently ordered a VPS, its reference name will look like this: *vps-XXXXXXX.vps.ovh.net* (where *X* stands for numbers and letters). 
+- If you have recently ordered a VPS, its reference name will look like this: *vps-XXXXXXX.vps.ovh.net* (where *X* can be a number or a letter). 
 
-- If you are managing an older VPS, you will notice that the reference name is structured differently: *vpsXXXX.ovh.net* (in which *X* stands for numbers). 
+- If you are managing an older VPS, you will notice that the reference name is structured differently: *vpsXXXX.ovh.net* (in which *X* stands for a number). 
 
 For the current VPS range, please continue with the next section, **First steps (current VPS range)**. For an older VPS model, skip to [**First steps (older VPS range)**](./#first-steps-older-vps-range_1) in this guide.
 
@@ -81,7 +81,7 @@ Connecting with the "root" user is disabled by default as a security measure. If
 
 #### Installing or reinstalling your VPS
 
-You can carry out any reinstallations directly in your Control Panel. From the "Home" tab, look for "OS/Distribution" in the box **Your VPS**. Click on `...`{.action} and then on `Reinstall my VPS`{.action}.
+You can carry out any reinstallations directly in your Control Panel. From the `Home`{.action} tab, look for "OS/Distribution" in the box **Your VPS**. Click on `...`{.action} and then on `Reinstall my VPS`{.action}.
 
 ![VPSnewreinstallation](images/2020panel_02.png){.thumbnail}
 
@@ -97,10 +97,10 @@ In the popup window, you will be asked to choose:
 >
 > Some proprietary operating systems or platforms such as Plesk or cPanel require licences which generate additional fees. Licences can be managed from the OVHcloud Control Panel: go to the `Bare Metal Cloud`{.action} section, then click on `Licences`{.action} in the left-hand navigation.
 >
-In order to have a **Windows** operating system running on a VPS, it has to be **selected in the order process**. A VPS with another OS installed cannot be reinstalled with Windows in the described way.
+In order to have a **Windows** operating system running on a VPS, it has to be **selected in the order process**. A VPS with another OS installed cannot be reinstalled with Windows in the way described above.
 >
 
-A progress bar for the reinstallation will appear in your Control Panel - please note that installation can take up to 30 minutes.
+A progress bar for the reinstallation will appear in your Control Panel - please note that this process may take up to 30 minutes.
 
 ### First steps (older VPS range)
 
@@ -127,7 +127,7 @@ ssh root@your_VPS_reference_name
 
 #### Installing or reinstalling your VPS (for older ranges)
 
-You can carry out any reinstallations directly in your Control Panel. Simply click `Reinstall my VPS`{.action} in the "Home" tab:
+You can carry out any reinstallations directly in your Control Panel. Simply click `Reinstall my VPS`{.action} in the `Home`{.action} tab:
 
 ![Reinstalling the VPS](images/reinstall_manager.png){.thumbnail}
 
@@ -144,10 +144,10 @@ A window will open, and you will be asked to choose:
 >
 > Some proprietary operating systems or platforms such as Plesk or cPanel require licences which generate additional fees. Licences can be managed from the OVHcloud Control Panel: go to the `Bare Metal Cloud`{.action} section, then click on `Licences`{.action} in the left-hand navigation.
 >
-In order to have a **Windows** operating system running on a VPS, it has to be **selected in the order process**. A VPS with another OS installed cannot be reinstalled with Windows in the described way.
+In order to have a **Windows** operating system running on a VPS, it has to be **selected in the order process**. A VPS with another OS installed cannot be reinstalled with Windows in the way described above.
 >
 
-A progress bar for the reinstallation will appear in your Control Panel - please note that installation can take up to 30 minutes.
+A progress bar for the reinstallation will appear in your Control Panel - please note that this process may take up to 30 minutes.
 
 ### Securing your VPS
 
