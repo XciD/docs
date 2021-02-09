@@ -109,7 +109,7 @@ The RTM feature is only available with current VPS ranges. Since it is a free op
 
 If you already have a current range VPS service in your customer account, you can activate the feature by [reinstalling your VPS](#reinstallvps). Keep in mind that it only works with GNU/Linux operating systems.
 
-![VPSnewreinstallation](images/2020panel_03.png){.thumbnail}
+![VPSnewreinstallation](images/2020panel_04.png){.thumbnail}
 
 Once your VPS has rebooted, the section **Your configuration** on the `Home`{.action} tab will display colour-coded bars to indicate the percentage of use for vCores, RAM and storage space respectively.
 
