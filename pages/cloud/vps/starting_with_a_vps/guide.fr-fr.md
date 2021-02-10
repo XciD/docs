@@ -6,7 +6,7 @@ section: 'Premiers pas'
 order: 1
 ---
 
-**Dernière mise à jour le 21/12/2020**
+**Dernière mise à jour le 10/02/2021**
  
 ## Objectif
 
@@ -82,7 +82,7 @@ passwd: password updated successfully
 
 Par mesure de sécurité, la connexion avec l'utilisateur « root » est désactivée par défaut. Si vous devez autoriser ce type de connexions, reportez-vous aux instructions de [ce guide](../root-password/#activer-le-mot-de-passe-root_1).
 
-#### Installation ou réinstallation de votre VPS (gamme actuelle)
+#### Installation ou réinstallation de votre VPS (gamme actuelle) <a name="reinstaller-vps"></a>
 
 Vous pouvez effectuer toute réinstallation directement dans l'espace client OVHcloud. Sous l'onglet « Accueil », recherchez « OS / Distribution » dans la zone **Votre VPS**. Cliquez sur `...`{.action}, puis sur `Réinstaller mon VPS`{.action}.
 
@@ -103,6 +103,25 @@ Une fenêtre s'ouvre et vous aurez alors à choisir :
 > 
 
 Dans votre espace client, une barre de progression s'affichera, vous informant de l'avancée de la réinstallation, celle-ci pouvant prendre jusqu'à 30 minutes.
+
+#### Utilisation du Real Time Monitoring (RTM) <a name="activerrtm"></a>
+
+La fonction RTM n'est disponible que sur la gamme VPS actuelle. Comme il s'agit d'une option gratuite, elle est activée par défaut, sauf si vous avez choisi de ne pas l'inclure lors de votre commande.
+
+Si votre compte OVHcloud contient déjà un service VPS de la gamme actuelle, vous pouvez activer la fonctionnalité en [réinstallant votre VPS](#reinstaller-vps). 
+
+> [!primary]
+>
+> Cette fonctionnalité n'est disponible que pour les systèmes d'exploitation GNU/Linux.
+>
+
+![VPSnewreinstallation](images/2020panel_04.png){.thumbnail}
+
+Une fois que votre VPS aura redémarré, la section **Votre configuration** sous l'onglet `Accueil`{.action} affichera des barres de couleur pour indiquer le pourcentage d'utilisation des vCores, de la mémoire et de l'espace de stockage.
+
+![VPSnewreinstallation](images/2020panel_03.png){.thumbnail}
+
+Le Real Time Monitoring OVHcloud peut vous aider à décider du moment opportun pour mettre à niveau votre service. En outre, votre espace client OVHcloud vous avertira si  l'une des ressources atteint un seuil critique.
 
 ### Premiers pas (ancienne gamme VPS)
 
