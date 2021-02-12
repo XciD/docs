@@ -107,7 +107,12 @@ A progress bar for the reinstallation will appear in your Control Panel - please
 
 The RTM feature is only available with current VPS ranges. Since it is a free option, it will be enabled by default unless you choose not to include it during the order process.
 
-If you already have a current range VPS service in your customer account, you can activate the feature by [reinstalling your VPS](#reinstallvps). Keep in mind that it only works with GNU/Linux operating systems.
+If you already have a current range VPS service in your customer account, you can activate the feature by [reinstalling your VPS](#reinstallvps).
+
+> [!primary]
+>
+> Keep in mind that RTM is generally compatible with GNU/Linux operating systems only.
+>
 
 ![VPSnewreinstallation](images/2020panel_04.png){.thumbnail}
 
