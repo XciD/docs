@@ -92,7 +92,7 @@ Une fenêtre s'ouvre et vous aurez alors à choisir :
 
 - votre distribution parmi celles proposées;
 - une clé SSH, si vous avez déjà créé une clé dans votre espace client;
-- si vous souhaitez activer la fonctionnalité RTM pour votre VPS (non-applicable à toutes les installations, voir les détails dans [l'étape suivante](#activerrtm).
+- si vous souhaitez activer la fonctionnalité RTM pour votre VPS (non-applicable à toutes les installations, voir les détails dans [l'étape suivante](#activerrtm)).
 
 ![Réinstallation du VPS](images/2020panel_01.png){.thumbnail}
 
