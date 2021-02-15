@@ -178,6 +178,10 @@ Comme expliqué dans la partie "Objectifs" de ce guide, vous êtes administrateu
 
 N'hésitez pas à vous reporter au guide sur la [sécurisation d'un VPS](../conseils-securisation-vps/){.external} si vous souhaitez obtenir quelques explications de base.
 
+### Rattacher un domaine
+
+Rendre visible votre VPS sur le Web implique généralement de lui associer un nom de domaine via DNS. Si vous gérez votre domaine chez OVHcloud, consultez le guide « [Éditer une zone DNS OVHcloud](../../domains/editer-ma-zone-dns/) » pour obtenir des instructions détaillées.
+
 
 ### Sécuriser son domaine avec un certificat SSL
 
