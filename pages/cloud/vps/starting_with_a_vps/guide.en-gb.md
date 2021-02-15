@@ -176,6 +176,9 @@ As explained in the “Objective” section of this guide, you are the administr
 
 Please refer to the guide on [Securing a VPS](../tips-for-securing-a-vps/) if you would like some basic tips.
 
+### Attaching a domain
+
+Making your VPS available on the web usually means attaching a domain name to it via DNS. If you manage your domain at OVHcloud, you can refer to the guide on [Editing your DNS zone](../../domains/web_hosting_how_to_edit_my_dns_zone/) for instructions.
 
 ### Securing a domain with an SSL certificate
 
