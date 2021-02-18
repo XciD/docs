@@ -36,13 +36,13 @@ Vous pouvez personnaliser l'ID des fax émis et des fax reçus.
 
 Vous pouvez paramétrer le nombre de tentatives d'envoi maximum, dans le cas d'un échec de transmission lors de la première tentative.
 
-![](images/Options générales.jpg){.thumbnail}
+![](images/Options_générales.jpg){.thumbnail}
 
 
 ## Entête des fax émis
 Vous avez la possibilité de personnaliser l'entête de vos fax selon la méthode ci-dessous.
 
-![](images/Entête des fax émis.jpg){.thumbnail}
+![](images/Entête_des_fax_émis.jpg){.thumbnail}
 
 
 ## Options de notifications
@@ -56,7 +56,7 @@ Vous pouvez également définir le format Texte ou HTML de l'e-mail reçu.
 Configurez l'adresse e-mail sur laquelle vous recevrez les télécopies.
 Vous pouvez renseigner jusqu'à 5 adresses différentes.
 
-![](images/Adresses e-mail à notifier.jpg){.thumbnail}
+![](images/Adresses_e-mail_à_notifier.jpg){.thumbnail}
 
 ## Aller plus loin
 
