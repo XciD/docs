@@ -23,7 +23,7 @@ Niveau : Intermédiaire
 
 Le télécopieur utilisé se branche sur la prise RJ11 "**Phone 1**" (En vert sur les images) de votre adaptateur. L'adaptateur doit également être branché en **Ethernet** sur votre routeur.
 
- ![](images/datasheet_C78-691106-2.png){.thumbnail}
+ ![](images/cicso-ATA-191.jpg){.thumbnail}
 
 ------------------------------------------------------------------------
 
