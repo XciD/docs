@@ -52,7 +52,7 @@ L'offre**Plug And Fax** permet d'utiliser deux modes de **réception** :
     -   Cliquez sur "**Gestion des appels**" dans le menu "**Navigation**".
     -   Cliquez sur "**Renvoi d'appel**".
 
-![](images/2015-03-18-124239_721x457_scrot.png){.thumbnail}
+![](images/Gestion_des_appels.jpg ){.thumbnail}
 
 -   -   Cliquez sur le bouton "**Gérer**".
     -   Cochez la case devant "**Si pas de réponse avant \_\_ sec:**".
@@ -61,7 +61,7 @@ L'offre**Plug And Fax** permet d'utiliser deux modes de **réception** :
     -   Cochez la case devant "**Si la ligne n'est pas disponible :**".
         -   Choisissez le type de redirection vers **fax** et sélectionnez le numéro de votre ligne de **fax**. Cette fonction permet de recevoir vos fax par mail ou le logiciel Ecofax en cas de non-réponse de la ligne.
 
-    ![](images/2015-03-18-140425_548x142_scrot.png){.thumbnail}
+    ![](images/Renvoi_dappel.jpg ){.thumbnail}
 
 -   Uniquement par e-mail ou via **Ecofax :**
     -   Connectez-vous à votre Espace Client OVH : <https://www.ovhtelecom.fr/espaceclient/>
@@ -91,4 +91,4 @@ Avec l'offre Plug And Fax, vous pouvez choisir la présentation du numéro en ap
 -   Cliquez sur le bouton "**Gérer**".
     -   Pour ne pas présenter de numéro, **décochez**la case "**Présenter le numéro**".
     -   Choisissez le **numéro à présenter** parmi la liste.
--   Confirmez la configuration en appuyant sur le bouton **Valider**. ![](images/2015-03-18-143938_719x406_scrot.png){.thumbnail}
+-   Confirmez la configuration en appuyant sur le bouton **Valider**. ![](images/Présentation_du_numéro.jpg){.thumbnail}
