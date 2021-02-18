@@ -25,7 +25,7 @@ Connectez-vous à votre [espace client OVHcloud](https://www.ovh.com/auth/?actio
 ## 
 Afin de mettre en place la configuration de base de votre offre, cliquez sur Fax, puis sur Configuration du Fax dans la navigation après avoir préalablement sélectionné votre ligne.
 
-![](images/Groupe_de_téléphonie.jpg){.thumbnail}
+![](images/FAX.jpg){.thumbnail}
 
 
 ## Options générales
