@@ -25,7 +25,7 @@ Connectez-vous à votre [espace client OVHcloud](https://www.ovh.com/auth/?actio
 ## 
 Afin de mettre en place la configuration de base de votre offre, cliquez sur Fax, puis sur Configuration du Fax dans la navigation après avoir préalablement sélectionné votre ligne.
 
-![](images/img_4244.jpg){.thumbnail}
+![](images/Groupe_de_téléphonie.jpg){.thumbnail}
 
 
 ## Options générales
@@ -49,7 +49,7 @@ Vous avez la possibilité de personnaliser l'entête de vos fax selon la méthod
 Personnalisez l'adresse e-mail et le nom de l'expéditeur des notifications que vous recevez, permettant entre autres d'éviter les filtres automatiques (type spam webmail).
 Vous pouvez également définir le format Texte ou HTML de l'e-mail reçu.
 
-![](images/Options de notifications.jpg){.thumbnail}
+![](images/Options_de_notifications.jpg){.thumbnail}
 
 
 ## Adresses à notifier
