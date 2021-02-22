@@ -1,4 +1,3 @@
-
 ---
 title: Utiliser son fax physique avec l’offre Plug And Fax
 slug: utiliser-son-fax-physique-avec-l-offre-plug-and-fax
